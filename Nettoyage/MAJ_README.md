@@ -1,8 +1,8 @@
-# 🛠️ Outils Administrateur
+# Outils Administrateur
 
 Collection de scripts d'automatisation PowerShell développés pour la maintenance et la sécurisation des postes de travail.
 
-## 🧹 Script : Clean-Windows.ps1
+## Script : Clean-Windows.ps1
 
 Ce script permet un nettoyage ciblé et interactif du système Windows. Il demande une confirmation utilisateur avant chaque suppression.
 
