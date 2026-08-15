@@ -1,0 +1,9 @@
+Prefetch : C:\Windows\Prefetch
+Fichiers de pannes (Crash Dumps) : C:\Windows\MEMORY.DMP et C:\Windows\Minidump
+Rapports d'erreurs Windows : C:\ProgramData\Microsoft\Windows\WER (Le dossier ProgramData est un dossier caché)
+Cache des miniatures d'images : C:\Users\%username%\AppData\Local\Microsoft\Windows\Explorer
+Dossier temporaire de Windows : C:\Windows\Temp
+Dossier temporaire de l'utilisateur connecté : C:\Users\%username%\AppData\Local\Temp (Tu peux aussi taper %temp% directement dans la barre d'adresse de l'explorateur).
+Cache des navigateur / Internet : C:\Users\%username%\AppData\Local\Microsoft\Windows\INetCache
+Fichiers de mises à jour Windows Update : C:\Windows\SoftwareDistribution\Download
+Journaux système (Logs) : C:\Windows\Logs
